@@ -1,3 +1,3 @@
 # Cifar100
-Resnet + Albumentation
+Resnet + Albumentation \
 Acc: 85.15%
